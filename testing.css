@@ -1,0 +1,46 @@
+* {
+    padding: 10px;
+}
+
+body{
+    background-color: #57575757;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+body h2 {
+    font-weight: bold;
+}
+
+body ul{
+    display: inline;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header{
+    background-color: #dfdfdf;
+}
+
+#pic{
+    position: relative;
+    right: -200px;
+}
+
+ #objective{
+    background-color: #a9aa8a;
+    text-align: center;
+}
+
+#education, #skills, #certifications, #seminars{
+    background-color: #dfdfdf ;
+}
+
+body ul li {
+    margin: 5px;
+    padding: 3px 0 0 10px;
+    list-style-type: none;
+    border-left: #848469 7px solid;
+    border-bottom: black 2px solid;
+    width: 37%;
+}
+
